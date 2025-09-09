@@ -1,4 +1,4 @@
-## Hi there My name is Austin Gebhardt
+## Hi there, my name is Austin Gebhardt
 |Cyber Security @ App State|AppITP|AHO Rugby|
 
 <!--
