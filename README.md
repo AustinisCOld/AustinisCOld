@@ -3,7 +3,7 @@
 |Cyber Security @ App State|AppITP|AHO Rugby|
 I am currently learning Network and Blue Team Security|
 I'm looking for as much knowledge as experience as possible|
-Reach me at ageb4life@gmail.com or www.linkedin.com/in/austin-gebhardt-4552a834b|
+Reach me at ageb4life@gmail.com or [www.linkedin.com/in/austin-gebhardt-4552a834b](https://www.linkedin.com/in/austin-gebhardt-4552a834b/)|
 
 <!--
 **AustinisCOld/AustinisCOld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
