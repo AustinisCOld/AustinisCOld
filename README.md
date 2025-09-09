@@ -1,5 +1,5 @@
 ## Hi there, my name is Austin Gebhardt
-|Cyber Security @ App State|AppITP|AHO Rugby|
+/n|Cyber Security @ App State|AppITP|AHO Rugby|
 |I am currently learning Network and Blue team Security|
 |I'm looking for as much knowledge as experience as possible|
 |Reach me at ageb4life@gmail.com|
